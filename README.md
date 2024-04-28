@@ -1,0 +1,2 @@
+# class_3_html_blog_details
+class_3_html_blog_details
